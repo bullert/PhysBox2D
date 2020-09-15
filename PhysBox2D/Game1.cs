@@ -30,6 +30,9 @@ namespace PhysBox2D
         {
             // TODO: Add your initialization logic here
 
+            GraphicsDevice.PresentationParameters.MultiSampleCount = 8;
+            _graphics.ApplyChanges();
+
             base.Initialize();
         }
 
@@ -52,9 +55,11 @@ namespace PhysBox2D
 
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(new Color(241, 242, 244));
 
             // TODO: Add your drawing code here
+
+
 
             base.Draw(gameTime);
         }

@@ -33,3 +33,4 @@ C:\Users\bartek\source\repos\PhysBox2D\PhysBox2D\obj\Debug\netcoreapp3.1\PhysBox
 C:\Users\bartek\source\repos\PhysBox2D\PhysBox2D\obj\Debug\netcoreapp3.1\PhysBox2D.dll
 C:\Users\bartek\source\repos\PhysBox2D\PhysBox2D\obj\Debug\netcoreapp3.1\PhysBox2D.pdb
 C:\Users\bartek\source\repos\PhysBox2D\PhysBox2D\obj\Debug\netcoreapp3.1\PhysBox2D.genruntimeconfig.cache
+C:\Users\bartek\source\repos\PhysBox2D\PhysBox2D\obj\Debug\netcoreapp3.1\PhysBox2D.csprojAssemblyReference.cache
