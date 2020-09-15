@@ -14,6 +14,16 @@ namespace PhysBox2D
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+            IsFixedTimeStep = false;
+
+            _graphics.GraphicsProfile = GraphicsProfile.HiDef;
+            _graphics.PreferMultiSampling = true;
+            _graphics.SynchronizeWithVerticalRetrace = false;
+
+            _graphics.PreferredBackBufferWidth = 1280;
+            _graphics.PreferredBackBufferHeight = 720;
+
+            _graphics.ApplyChanges();
         }
 
         protected override void Initialize()
