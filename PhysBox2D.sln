@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysBox2D", "PhysBox2D\PhysBox2D.csproj", "{3A6CE008-B358-48FB-8598-DCA23A98E3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6CE008-B358-48FB-8598-DCA23A98E3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6CE008-B358-48FB-8598-DCA23A98E3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6CE008-B358-48FB-8598-DCA23A98E3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6CE008-B358-48FB-8598-DCA23A98E3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7DCB3D-A79C-43D9-B859-90115B89F727}
+	EndGlobalSection
+EndGlobal
